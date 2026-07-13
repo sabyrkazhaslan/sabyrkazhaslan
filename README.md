@@ -6,6 +6,8 @@ Frontend developer gaining experience by building real-world projects.
 
 - **HTML5:** Semantic HTML, Web Accessibility (a11y), SEO basics
 - **CSS3:** Flexbox, Grid Layout, Responsive Design, Media Queries, Container Queries, CSS Variables, CSS Nesting, Animations
+- **JavaScript (ES6+):** Async JavaScript (Promises, async/await), Modules (import/export), Classes
+- **Web APIs:** DOM API, Canvas API, Fetch API, Web Storage API, Intersection Observer API
 - **UI Implementation:** Mobile-first / Desktop-first approach, Pixel-perfect layouts
 - **Methodologies:** BEM
 - **CSS Preprocessors:** Sass (SCSS)
