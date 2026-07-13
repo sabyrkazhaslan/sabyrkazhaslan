@@ -10,6 +10,11 @@ Frontend developer gaining experience by building real-world projects.
 - **Methodologies:** BEM
 - **CSS Preprocessors:** Sass (SCSS)
 - **CSS Frameworks:** Bootstrap
+- **Version Control:** Git, GitHub
+- **Workflow:** Conventional Commits, GitHub Flow
+- **Build Tools:** Parcel
+- **Package Managers:** npm
+- **Design Tools:** Figma
 
 ## Experience
 
