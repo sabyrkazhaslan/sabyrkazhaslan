@@ -1,4 +1,4 @@
-# Hi there, I'm Sabyrka 👋
+# Hi there 👋
 
 Frontend developer gaining experience by building real-world projects.
 
